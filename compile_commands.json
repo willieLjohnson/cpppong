@@ -1,0 +1,58 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++11",
+      "-I/opt/homebrew/Cellar/sdl2/2.24.0/include",
+      "-o",
+      "game",
+      "src/ball.cpp"
+    ],
+    "directory": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong",
+    "file": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong/src/ball.cpp",
+    "output": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong/game"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++11",
+      "-I/opt/homebrew/Cellar/sdl2/2.24.0/include",
+      "-o",
+      "game",
+      "src/main.cpp"
+    ],
+    "directory": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong",
+    "file": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong/src/main.cpp",
+    "output": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong/game"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++11",
+      "-I/opt/homebrew/Cellar/sdl2/2.24.0/include",
+      "-o",
+      "game",
+      "src/paddle.cpp"
+    ],
+    "directory": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong",
+    "file": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong/src/paddle.cpp",
+    "output": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong/game"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++11",
+      "-I/opt/homebrew/Cellar/sdl2/2.24.0/include",
+      "-o",
+      "game",
+      "src/vec.cpp"
+    ],
+    "directory": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong",
+    "file": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong/src/vec.cpp",
+    "output": "/Users/vvv/Library/Mobile Documents/com~apple~CloudDocs/1cloud/games/cpppong/game"
+  }
+]
